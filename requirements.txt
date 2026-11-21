@@ -1,0 +1,6 @@
+pytest==8.3.3
+requests==2.32.3
+selenium==4.25.0
+webdriver-manager==4.0.2
+locust==2.31.8
+pytest-html==4.1.1
